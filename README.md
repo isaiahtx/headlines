@@ -1,4 +1,4 @@
-# Headline to Movement
+# Headlines
 
 The goal of this project is to employ different machine learning, statistical
 learning, or NLP methods and algorithms to classify whether a financial news
