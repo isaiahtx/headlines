@@ -1,0 +1,7 @@
+START: 2020-01-01
+END: 2026-01-01
+PREDICTION_DELTA: 5 # minutes
+OPEN_CUTOFF: 15     # minutes
+CLOSE_CUTOFF: 5    # minutes
+FWD_WINDOW: 5       # minutes
+BACK_WINDOW: 60     # minutes
