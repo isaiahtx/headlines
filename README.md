@@ -7,4 +7,4 @@ associated symbols.
 
 Project uses data from [Alpaca API](https://alpaca.markets/), and employs the
 following custom library I've made for interacting with the API:
-[alpaca-api](https://github.com/isaiahtx?tab=repositories)
+[alpaca-api](https://github.com/isaiahtx/alpaca-api)
